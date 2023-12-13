@@ -9,7 +9,7 @@
 Este proyecto aborda la exploración de datos, modelado predictivo y clasificación de datos faltantes en una columna específica ('etiqueta'). Se realiza un análisis exploratorio de los datos seguido de la implementación de un modelo de machine learning para clasificar los registros que carecen de etiqueta.
 
 ## Instrucciones de Uso:
-1. Abre y ejecuta el notebook taller2.ipynb para visualizar los datos y modelo empleados.
+1. Abre y ejecuta los notebooks con extensión .ipynb para visualizar los datos y modelo empleados. POR FAVOR: antes de correr el codigo sube la base de datos datos_sensores encontrada en el menú
 3. Encuentra las predicciones en el archivo predicciones.csv.
 
 ## Nota:
