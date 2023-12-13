@@ -1,5 +1,6 @@
 # Análisis Exploratorio de Datos y Clasificación con Machine Learning
 
+# nowennkkncekcwkcwlkncwlclkcwe
 ## Objetivos:
 - Realizar un análisis exploratorio con los datos proporcionados.
 - Entrenar un modelo de machine learning para clasificar los datos faltantes en la columna 'etiqueta'.
