@@ -23,3 +23,5 @@ paquete scikit-learn, en el cual con el uso de una semilla aleatoria se obtuvo u
 
 ## Nota:
 - La columna 'etiqueta' solo tiene dos valores posibles: 'Positivo' o 'Negativo'.
+
+giovany gay
